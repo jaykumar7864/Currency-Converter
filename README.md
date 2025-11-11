@@ -10,7 +10,7 @@ A web-based application that allows users to convert one currency to another in 
  Simple, clean, and responsive UI
  Error handling and input validation
 
-⚡ Fast API-based conversion
+ Fast API-based conversion
 
 # Tech Stack
 
